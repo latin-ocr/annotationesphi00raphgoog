@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annotationesphi00raphgoog_0835.png"; bbox 0 0 596 1035; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 63 68 448 920">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 63 68 448 920">
+     <span class='ocr_line' id='line_1_1' title="bbox 63 68 448 920; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 63 68 448 920; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 459 108 501 939">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 459 108 501 939">
+     <span class='ocr_line' id='line_1_2' title="bbox 459 108 501 939; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 459 898 501 939; x_wconf 44' lang='lat' dir='ltr'>E*</span> <span class='ocrx_word' id='word_1_3' title='bbox 486 771 501 886; x_wconf 46' lang='lat'>5=÷÷*-›-</span> <span class='ocrx_word' id='word_1_4' title='bbox 486 695 501 760; x_wconf 32' lang='grc' dir='ltr'>θεὴ</span> <span class='ocrx_word' id='word_1_5' title='bbox 486 620 501 685; x_wconf 48' lang='grc' dir='ltr'>τρε-κει</span> <span class='ocrx_word' id='word_1_6' title='bbox 484 493 501 608; x_wconf 47' lang='lat' dir='ltr'>&amp;ta-0.</span> <span class='ocrx_word' id='word_1_7' title='bbox 485 442 501 481; x_wconf 54' lang='lat'>⁵3„</span> <span class='ocrx_word' id='word_1_8' title='bbox 484 266 501 432; x_wconf 45' lang='lat' dir='ltr'>*mesum-..2</span> <span class='ocrx_word' id='word_1_9' title='bbox 483 164 501 255; x_wconf 63' lang='grc' dir='ltr'>Βιθιεε...</span> <span class='ocrx_word' id='word_1_10' title='bbox 484 108 501 153; x_wconf 61' lang='lat'>5³9</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annotationesphi00raphgoog_0192.png"; bbox 0 0 596 1035; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 41 491 816">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 41 491 816">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 41 491 724; baseline 0 -48"><span class='ocrx_word' id='word_1_1' title='bbox 58 41 491 724; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 473 616 491 676; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 123 724 294 816; baseline 0.076 -12"><span class='ocrx_word' id='word_1_3' title='bbox 123 724 294 816; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 361 688 422 712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 688 422 712">
+     <span class='ocr_line' id='line_1_3' title="bbox 361 688 422 712; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 361 688 422 712; x_wconf 58' lang='lat' dir='ltr'><strong>ow,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 378 778 471 836">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 378 778 471 836">
+     <span class='ocr_line' id='line_1_4' title="bbox 378 778 471 836; baseline 0 -26"><span class='ocrx_word' id='word_1_5' title='bbox 378 778 471 836; x_wconf 47' lang='lat' dir='ltr'><strong>mffffid</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 242 867 530 909">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 242 867 530 909">
+     <span class='ocr_line' id='line_1_5' title="bbox 242 867 530 909; baseline -0.003 -7"><span class='ocrx_word' id='word_1_6' title='bbox 242 883 287 909; x_wconf 73' lang='lat' dir='ltr'><strong>Gq.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 320 899 325 908; x_wconf 92' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 417 867 487 904; x_wconf 39' lang='lat' dir='ltr'><strong>dete-s·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 528 880 530 882; x_wconf 83' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
